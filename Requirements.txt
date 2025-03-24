@@ -1,0 +1,7 @@
+# Core dependencies
+tkinter
+psutil>=5.8.0
+gputil>=1.4.0
+
+# OpenWebUI
+open-webui
