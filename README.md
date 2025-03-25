@@ -68,7 +68,8 @@ The terminal log section displays the output from the OpenWebUI process, making 
 
 ## License
 
-[MIT License](LICENSE)
+GNU GENERAL PUBLIC LICENSE Version 2
+                       
 
 ## Links
 
